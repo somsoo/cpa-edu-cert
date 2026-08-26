@@ -1,0 +1,8 @@
+﻿title: "유치원 행정실무사 취업 정보센터"
+description: "유치원 행정실무사 자격증 취득 방법, 누리과정 유망직, 기출문제 및 취업 정보를 제공합니다."
+url: "https://edu-job.enjoy-onepage.com"
+theme: minima
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
